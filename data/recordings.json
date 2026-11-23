@@ -1,0 +1,41 @@
+[
+  {
+    "id": "L3-001-2026-10-27-17-09-50",
+    "title": "把糖按口味分开",
+    "titleEn": "Sort candy by flavour",
+    "dir": "",
+    "duration": 17.4,
+    "fps": 30,
+    "scene": "餐桌",
+    "sceneEn": "Dining table",
+    "task": "糖果分拣",
+    "taskEn": "Candy sorting",
+    "modalities": [
+      "RGB",
+      "Depth",
+      "EEG",
+      "EMG",
+      "Gaze",
+      "Hands",
+      "Pose",
+      "IMU"
+    ],
+    "poster": "episode/poster.jpg",
+    "sample": "episode/sample.json",
+    "annotations": "episode/annotations.json",
+    "views": {
+      "left": "episode/main-headband-left.mp4",
+      "right": "episode/main-headband-right.mp4",
+      "bleft": "episode/main-headband-bleft.mp4",
+      "bright": "episode/main-headband-bright.mp4",
+      "third": "episode/main-third.mp4",
+      "depth": "episode/main-depth.mp4",
+      "wleft": "episode/main-wrist-left.mp4",
+      "wright": "episode/main-wrist-right.mp4"
+    },
+    "eye": "episode/main-eye.mp4",
+    "depthGray": "episode/main-depth-gray.mp4",
+    "depthMeta": "episode/depth.json",
+    "cloudRgb": "episode/main-rect-left.mp4"
+  }
+]

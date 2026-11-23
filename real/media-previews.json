@@ -1,0 +1,27 @@
+[
+  {
+    "id": "L3-001-2026-10-27-17-09-50",
+    "title": "把糖按口味分开",
+    "titleEn": "Sort candy by flavour",
+    "level": "L3",
+    "date": "2026-10-27",
+    "scene": "餐桌",
+    "sceneEn": "Dining table",
+    "task": "糖果分拣",
+    "taskEn": "Candy sorting",
+    "duration": 17.4,
+    "previewDuration": 12,
+    "modalities": [
+      "RGB",
+      "Depth",
+      "EEG",
+      "EMG",
+      "Gaze",
+      "Hands",
+      "Pose",
+      "IMU"
+    ],
+    "src": "episode/preview.mp4",
+    "poster": "episode/thumb.jpg"
+  }
+]

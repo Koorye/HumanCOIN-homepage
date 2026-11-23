@@ -1,0 +1,269 @@
+[1/8] bundle complete L3-001-2026-10-27-13-28-54
+[2/8] samples L3-001-2026-10-27-13-30-47
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[2/8] video left L3-001-2026-10-27-13-30-47
+[vost#0:0/rawvideo @ 0x56c089cf4f80] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x56c089d1c200] Error muxing a packet
+[out#0/rawvideo @ 0x56c089d1c200] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x56c089d1c200] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x56c089d1c200] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x56c089d1c200] Error closing file: Broken pipe
+[2/8] video right L3-001-2026-10-27-13-30-47
+[vost#0:0/rawvideo @ 0x61d9ef7c3280] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x61d9ef770d00] Error muxing a packet
+[out#0/rawvideo @ 0x61d9ef770d00] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x61d9ef770d00] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x61d9ef770d00] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x61d9ef770d00] Error closing file: Broken pipe
+[2/8] video bleft L3-001-2026-10-27-13-30-47
+[vost#0:0/rawvideo @ 0x60d42531b080] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x60d4252c8040] Error muxing a packet
+[out#0/rawvideo @ 0x60d4252c8040] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x60d4252c8040] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x60d4252c8040] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x60d4252c8040] Error closing file: Broken pipe
+[2/8] video bright L3-001-2026-10-27-13-30-47
+[vost#0:0/rawvideo @ 0x5adbe6d7bf40] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5adbe6d2da40] Error muxing a packet
+[out#0/rawvideo @ 0x5adbe6d2da40] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5adbe6d2da40] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5adbe6d2da40] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5adbe6d2da40] Error closing file: Broken pipe
+[2/8] bundle complete L3-001-2026-10-27-13-30-47
+[3/8] samples L3-001-2026-10-27-13-33-02
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[3/8] video left L3-001-2026-10-27-13-33-02
+[vost#0:0/rawvideo @ 0x580887b5a440] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x580887c11ac0] Error muxing a packet
+[out#0/rawvideo @ 0x580887c11ac0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x580887c11ac0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x580887c11ac0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x580887c11ac0] Error closing file: Broken pipe
+[3/8] video right L3-001-2026-10-27-13-33-02
+[vost#0:0/rawvideo @ 0x61e4dfca7440] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x61e4dfca8340] Error muxing a packet
+[out#0/rawvideo @ 0x61e4dfca8340] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x61e4dfca8340] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x61e4dfca8340] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x61e4dfca8340] Error closing file: Broken pipe
+[3/8] video bleft L3-001-2026-10-27-13-33-02
+[vost#0:0/rawvideo @ 0x60ef7281d440] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x60ef728e7480] Error muxing a packet
+[out#0/rawvideo @ 0x60ef728e7480] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x60ef728e7480] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x60ef728e7480] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x60ef728e7480] Error closing file: Broken pipe
+[3/8] video bright L3-001-2026-10-27-13-33-02
+[vost#0:0/rawvideo @ 0x610a25beb440] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x610a25cb0840] Error muxing a packet
+[out#0/rawvideo @ 0x610a25cb0840] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x610a25cb0840] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x610a25cb0840] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x610a25cb0840] Error closing file: Broken pipe
+[3/8] bundle complete L3-001-2026-10-27-13-33-02
+[4/8] samples L3-001-2026-10-27-13-38-41
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[4/8] video left L3-001-2026-10-27-13-38-41
+[vost#0:0/rawvideo @ 0x5acc3972c1c0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5acc3972c440] Error muxing a packet
+[out#0/rawvideo @ 0x5acc3972c440] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5acc3972c440] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5acc3972c440] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5acc3972c440] Error closing file: Broken pipe
+[4/8] video right L3-001-2026-10-27-13-38-41
+[vost#0:0/rawvideo @ 0x63dc1e81d1c0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x63dc1e820f00] Error muxing a packet
+[out#0/rawvideo @ 0x63dc1e820f00] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x63dc1e820f00] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x63dc1e820f00] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x63dc1e820f00] Error closing file: Broken pipe
+[4/8] video bleft L3-001-2026-10-27-13-38-41
+[vost#0:0/rawvideo @ 0x62e987267380] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x62e9872677c0] Error muxing a packet
+[out#0/rawvideo @ 0x62e9872677c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x62e9872677c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x62e9872677c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x62e9872677c0] Error closing file: Broken pipe
+[4/8] video bright L3-001-2026-10-27-13-38-41
+[vost#0:0/rawvideo @ 0x6461c9d9b380] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x6461c9d9b7c0] Error muxing a packet
+[out#0/rawvideo @ 0x6461c9d9b7c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x6461c9d9b7c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x6461c9d9b7c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x6461c9d9b7c0] Error closing file: Broken pipe
+[4/8] bundle complete L3-001-2026-10-27-13-38-41
+[5/8] samples L3-001-2026-10-27-13-42-02
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[5/8] video left L3-001-2026-10-27-13-42-02
+[vost#0:0/rawvideo @ 0x5830fb421180] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5830fb3d1380] Error muxing a packet
+[out#0/rawvideo @ 0x5830fb3d1380] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5830fb3d1380] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5830fb3d1380] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5830fb3d1380] Error closing file: Broken pipe
+[5/8] video right L3-001-2026-10-27-13-42-02
+[vost#0:0/rawvideo @ 0x55c582762080] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x55c582784ac0] Error muxing a packet
+[out#0/rawvideo @ 0x55c582784ac0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x55c582784ac0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x55c582784ac0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x55c582784ac0] Error closing file: Broken pipe
+[5/8] video bleft L3-001-2026-10-27-13-42-02
+[vost#0:0/rawvideo @ 0x5a8a64c83b40] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5a8a64c2f840] Error muxing a packet
+[out#0/rawvideo @ 0x5a8a64c2f840] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5a8a64c2f840] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5a8a64c2f840] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5a8a64c2f840] Error closing file: Broken pipe
+[5/8] video bright L3-001-2026-10-27-13-42-02
+[vost#0:0/rawvideo @ 0x5a467956acc0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5a467958d900] Error muxing a packet
+[out#0/rawvideo @ 0x5a467958d900] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5a467958d900] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5a467958d900] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5a467958d900] Error closing file: Broken pipe
+[5/8] bundle complete L3-001-2026-10-27-13-42-02
+[6/8] samples L3-001-2026-10-27-13-47-37
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[6/8] video left L3-001-2026-10-27-13-47-37
+[vost#0:0/rawvideo @ 0x57f3e3c351c0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x57f3e3c5f640] Error muxing a packet
+[out#0/rawvideo @ 0x57f3e3c5f640] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x57f3e3c5f640] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x57f3e3c5f640] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x57f3e3c5f640] Error closing file: Broken pipe
+[6/8] video right L3-001-2026-10-27-13-47-37
+[vost#0:0/rawvideo @ 0x621a593f5c80] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x621a594a35c0] Error muxing a packet
+[out#0/rawvideo @ 0x621a594a35c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x621a594a35c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x621a594a35c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x621a594a35c0] Error closing file: Broken pipe
+[6/8] video bleft L3-001-2026-10-27-13-47-37
+[vost#0:0/rawvideo @ 0x6391e6553000] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x6391e64fff80] Error muxing a packet
+[out#0/rawvideo @ 0x6391e64fff80] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x6391e64fff80] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x6391e64fff80] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x6391e64fff80] Error closing file: Broken pipe
+[6/8] video bright L3-001-2026-10-27-13-47-37
+[vost#0:0/rawvideo @ 0x60a700a76bc0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x60a700a25f40] Error muxing a packet
+[out#0/rawvideo @ 0x60a700a25f40] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x60a700a25f40] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x60a700a25f40] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x60a700a25f40] Error closing file: Broken pipe
+[6/8] bundle complete L3-001-2026-10-27-13-47-37
+[7/8] samples L3-001-2026-10-27-13-53-30
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[7/8] video left L3-001-2026-10-27-13-53-30
+[vost#0:0/rawvideo @ 0x5665220cdb80] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x56652207c480] Error muxing a packet
+[out#0/rawvideo @ 0x56652207c480] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x56652207c480] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x56652207c480] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x56652207c480] Error closing file: Broken pipe
+[7/8] video right L3-001-2026-10-27-13-53-30
+[vost#0:0/rawvideo @ 0x5f7c529674c0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5f7c5298c200] Error muxing a packet
+[out#0/rawvideo @ 0x5f7c5298c200] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5f7c5298c200] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5f7c5298c200] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5f7c5298c200] Error closing file: Broken pipe
+[7/8] video bleft L3-001-2026-10-27-13-53-30
+[vost#0:0/rawvideo @ 0x5b1b3b6374c0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x5b1b3b5e55c0] Error muxing a packet
+[out#0/rawvideo @ 0x5b1b3b5e55c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x5b1b3b5e55c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x5b1b3b5e55c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x5b1b3b5e55c0] Error closing file: Broken pipe
+[7/8] video bright L3-001-2026-10-27-13-53-30
+[vost#0:0/rawvideo @ 0x6258ff2a79c0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x6258ff2566c0] Error muxing a packet
+[out#0/rawvideo @ 0x6258ff2566c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x6258ff2566c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x6258ff2566c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x6258ff2566c0] Error closing file: Broken pipe
+[7/8] bundle complete L3-001-2026-10-27-13-53-30
+[8/8] samples L3-001-2026-10-27-13-54-34
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+[8/8] video left L3-001-2026-10-27-13-54-34
+[vost#0:0/rawvideo @ 0x58453b0eeec0] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x58453b0a0740] Error muxing a packet
+[out#0/rawvideo @ 0x58453b0a0740] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x58453b0a0740] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x58453b0a0740] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x58453b0a0740] Error closing file: Broken pipe
+[8/8] video right L3-001-2026-10-27-13-54-34
+[vost#0:0/rawvideo @ 0x61c71b461800] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x61c71b415900] Error muxing a packet
+[out#0/rawvideo @ 0x61c71b415900] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x61c71b415900] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x61c71b415900] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x61c71b415900] Error closing file: Broken pipe
+[8/8] video bleft L3-001-2026-10-27-13-54-34
+[vost#0:0/rawvideo @ 0x63fb79241740] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x63fb791f5900] Error muxing a packet
+[out#0/rawvideo @ 0x63fb791f5900] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x63fb791f5900] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x63fb791f5900] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x63fb791f5900] Error closing file: Broken pipe
+[8/8] video bright L3-001-2026-10-27-13-54-34
+[vost#0:0/rawvideo @ 0x61ad79a4e300] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x61ad79a6a2c0] Error muxing a packet
+[out#0/rawvideo @ 0x61ad79a6a2c0] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x61ad79a6a2c0] Terminating thread with return code -32 (Broken pipe)
+[out#0/rawvideo @ 0x61ad79a6a2c0] Error writing trailer: Broken pipe
+[out#0/rawvideo @ 0x61ad79a6a2c0] Error closing file: Broken pipe
+[8/8] bundle complete L3-001-2026-10-27-13-54-34
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-28-54: 4 decoded videos, 480 frames, all waveform bins match source
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-30-47: 4 decoded videos, 480 frames, all waveform bins match source
+verified L3-001-2026-10-27-13-33-02: 4 decoded videos, 480 frames, all waveform bins match source
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-38-41: 4 decoded videos, 480 frames, all waveform bins match source
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-42-02: 4 decoded videos, 480 frames, all waveform bins match source
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-47-37: 4 decoded videos, 480 frames, all waveform bins match source
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-53-30: 4 decoded videos, 480 frames, all waveform bins match source
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+/arrow/cpp/src/arrow/io/interfaces.cc:323: Error ignored when destroying file of type N5arrow2io12ReadableFileE: IOError: error closing file
+verified L3-001-2026-10-27-13-54-34: 4 decoded videos, 480 frames, all waveform bins match source
+PASS: 8 bundles, 32 decoded 16-second videos; maximum camera alignment delta 0.014153020s

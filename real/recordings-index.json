@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0",
+  "recordings": [
+    {
+      "id": "L3-001-2026-10-27-17-09-50",
+      "title": "把糖按口味分开",
+      "titleEn": "Sort candy by flavour",
+      "directory": "./real/",
+      "sample": "episode/sample.json",
+      "manifest": "",
+      "videos": {
+        "left": "episode/main-headband-left.mp4",
+        "right": "episode/main-headband-right.mp4",
+        "bleft": "episode/main-headband-bleft.mp4",
+        "bright": "episode/main-headband-bright.mp4",
+        "wleft": "episode/main-wrist-left.mp4",
+        "wright": "episode/main-wrist-right.mp4",
+        "third": "episode/main-third.mp4",
+        "depth": "episode/main-depth.mp4"
+      },
+      "thumbnail": "episode/thumb.jpg",
+      "annotations": "episode/annotations.json",
+      "duration": 17.4,
+      "fps": 30,
+      "clipStart": 0,
+      "clipEnd": 17.4
+    }
+  ]
+}
